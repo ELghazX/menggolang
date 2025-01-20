@@ -21,4 +21,4 @@
 17. di golang function bisa diperlakukan sebagai [value](functionValue.go) bisa dimasukkan ke variabel
 18. function juga bisa dibuat di [parameter](functionAsParameter.go).
 agar parameter tidak terlalu panjang, bisa dialiaskan seperti [ini](functionAsParameter2.go). lebih [lengkap](typeDeclaration.go)
-19.
+19. agar lebih cepat dengan masukkan sebagai parameter kita bisa buat function [tanpa nama](anonymusFunction.go)
