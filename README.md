@@ -9,3 +9,4 @@
 8. [Konversi tipe data](datatypeconversion.go)
 9. [Array](arya.go)
 10. Tipe data [Slice](sliceAlterArya.go) lebih fleksibel dari array
+11. Array asosiatif / dictionary python namanya [map](map.go)
