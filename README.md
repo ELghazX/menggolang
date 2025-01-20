@@ -14,4 +14,4 @@
 11. Array asosiatif / dictionary python namanya [map](map.go)
 12. percabangan [ifelse](ifelse.go)
 13. percabangan switch [case](switch.go)
-
+14. perulangan di golang menggunakan [for](for.go) untuk fungsi for loop, while loop, dan foreach
