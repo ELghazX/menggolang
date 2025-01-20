@@ -15,3 +15,4 @@
 12. percabangan [ifelse](ifelse.go)
 13. percabangan switch [case](switch.go)
 14. perulangan di golang menggunakan [for](for.go) untuk fungsi for loop, while loop, dan foreach
+15. [break dan continue](breakAndContinue.go) untuk memilih/menghentikan iterasi dalam kondisi tertentu.
