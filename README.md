@@ -3,19 +3,22 @@
 ## untuk menjalankan file gunakan ```go run "nama file"```di terminal
 
 1. buat data project dengan perintah di commandline ```go mod <nama-project>```  [go.mod](go.mod)
-3. stdout [Hello world](helloworld.go)
-4. Tidak boleh ada banyak func main dalam satu project, atau tidak bisa dibuild ```go build``` [contoh](sample.go)
-5. Cara [Deklarasi tipe data](typeDeclaration.go)
-6. [Tipe data number](number.go)
-7. Membuat [variabel](variable.go)
-8. [Konversi tipe data](datatypeconversion.go)
-9. [Array](arya.go)
-10. Tipe data [Slice](sliceAlterArya.go) lebih fleksibel dari array
-11. Array asosiatif / dictionary python namanya [map](map.go)
-12. percabangan [ifelse](ifelse.go)
-13. percabangan switch [case](switch.go)
-14. perulangan di golang menggunakan [for](for.go) untuk fungsi for loop, while loop, dan foreach
-15. [break dan continue](breakAndContinue.go) untuk memilih/menghentikan iterasi dalam kondisi tertentu.
-16. [function](function.go) prosedur, function return value, function return multiple value, function named return value 
-17. variadic [function](variadicFuncion.go) fungsi yang menerima banyak argumen dengan 1 parameter
-18. di golang function bisa diperlakukan sebagai [value](functionValue.go) bisa dimasukkan ke variabel
+2. stdout [Hello world](helloworld.go)
+3. Tidak boleh ada banyak func main dalam satu project, atau tidak bisa dibuild ```go build``` [contoh](sample.go)
+4. Cara [Deklarasi tipe data](typeDeclaration.go) dan membuat alias dari tipe data
+5. [Tipe data number](number.go)
+6. Membuat [variabel](variable.go)
+7. [Konversi tipe data](datatypeconversion.go)
+8. [Array](arya.go)
+9. Tipe data [Slice](sliceAlterArya.go) lebih fleksibel dari array
+10. Array asosiatif / dictionary python namanya [map](map.go)
+11. percabangan [ifelse](ifelse.go)
+12. percabangan switch [case](switch.go)
+13. perulangan di golang menggunakan [for](for.go) untuk fungsi for loop, while loop, dan foreach
+14. [break dan continue](breakAndContinue.go) untuk memilih/menghentikan iterasi dalam kondisi tertentu.
+15. [function](function.go) prosedur, function return value, function return multiple value, function named return value 
+16. variadic [function](variadicFuncion.go) fungsi yang menerima banyak argumen dengan 1 parameter
+17. di golang function bisa diperlakukan sebagai [value](functionValue.go) bisa dimasukkan ke variabel
+18. function juga bisa dibuat di [parameter](functionAsParameter.go).
+agar parameter tidak terlalu panjang, bisa dialiaskan seperti [ini](functionAsParameter2.go). lebih [lengkap](typeDeclaration.go)
+19.
