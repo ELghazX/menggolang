@@ -16,9 +16,10 @@
 12. percabangan switch [case](switch.go)
 13. perulangan di golang menggunakan [for](for.go) untuk fungsi for loop, while loop, dan foreach
 14. [break dan continue](breakAndContinue.go) untuk memilih/menghentikan iterasi dalam kondisi tertentu.
-15. [function](function.go) prosedur, function return value, function return multiple value, function named return value 
+15. [function](function.go) prosedur, function return value, function return multiple value, function named return value
 16. variadic [function](variadicFuncion.go) fungsi yang menerima banyak argumen dengan 1 parameter
 17. di golang function bisa diperlakukan sebagai [value](functionValue.go) bisa dimasukkan ke variabel
 18. function juga bisa dibuat di [parameter](functionAsParameter.go).
 agar parameter tidak terlalu panjang, bisa dialiaskan seperti [ini](functionAsParameter2.go). lebih [lengkap](typeDeclaration.go)
 19. agar lebih cepat dengan masukkan sebagai parameter kita bisa buat function [tanpa nama](anonymusFunction.go)
+20. fungsi [rekursif](recursiveFunction.go)
