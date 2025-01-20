@@ -16,3 +16,4 @@
 13. percabangan switch [case](switch.go)
 14. perulangan di golang menggunakan [for](for.go) untuk fungsi for loop, while loop, dan foreach
 15. [break dan continue](breakAndContinue.go) untuk memilih/menghentikan iterasi dalam kondisi tertentu.
+16. [function](function.go) prosedur, function return value, function return multiple value, function named return value 
