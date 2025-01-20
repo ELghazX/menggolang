@@ -23,3 +23,4 @@
 agar parameter tidak terlalu panjang, bisa dialiaskan seperti [ini](functionAsParameter2.go). lebih [lengkap](typeDeclaration.go)
 19. agar lebih cepat dengan masukkan sebagai parameter kita bisa buat function [tanpa nama](anonymusFunction.go)
 20. fungsi [rekursif](recursiveFunction.go)
+21. [closure](closure.go), fitur di golang buat variabel berintraksi dengan variabel yang bukan scope nya
