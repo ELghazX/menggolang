@@ -1,6 +1,6 @@
 # Belajar GO lang
 
-1. Data project dengan perintah di commandline ```go mod <nama-project>```  [go.mod](go.mod)
+1. buat data project dengan perintah di commandline ```go mod <nama-project>```  [go.mod](go.mod)
 3. stdout [Hello world](helloworld.go)
 4. Tidak boleh ada banyak func main dalam satu project, atau tidak bisa dibuild ```go build``` [contoh](sample.go)
 5. Cara [Deklarasi tipe data](typeDeclaration.go)
