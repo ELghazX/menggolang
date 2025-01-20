@@ -1,6 +1,6 @@
 # Belajar GO lang
 
-## untuk menjalankan file gunakan go run "nama file" di terminal
+## ```untuk menjalankan file gunakan go run "nama file" di terminal```
 
 1. buat data project dengan perintah di commandline ```go mod <nama-project>```  [go.mod](go.mod)
 3. stdout [Hello world](helloworld.go)
