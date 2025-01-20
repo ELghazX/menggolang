@@ -18,3 +18,4 @@
 15. [break dan continue](breakAndContinue.go) untuk memilih/menghentikan iterasi dalam kondisi tertentu.
 16. [function](function.go) prosedur, function return value, function return multiple value, function named return value 
 17. variadic [function](variadicFuncion.go) fungsi yang menerima banyak argumen dengan 1 parameter
+18. di golang function bisa diperlakukan sebagai [value](functionValue.go) bisa dimasukkan ke variabel
