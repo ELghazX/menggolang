@@ -28,3 +28,4 @@ agar parameter tidak terlalu panjang, bisa dialiaskan seperti [ini](functionAsPa
 23. Representasi dari data disajikan di [struct](struct.go)
 24. [Interface](interface.go) berisi sebuah kontrak untuk struct yang mau ngimplementasikannya
 25. Puncak tipe data itu [any](aniani.go)
+26. [nil](nil.go) itu null, value yang hanya bisa di tipe data interface ,function, map, slice, pointer, dan channel
