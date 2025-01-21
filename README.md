@@ -31,3 +31,4 @@ agar parameter tidak terlalu panjang, bisa dialiaskan seperti [ini](functionAsPa
 26. [nil](nil.go) itu null, value yang hanya bisa di tipe data interface ,function, map, slice, pointer, dan channel
 27. konversi dari ani ke tipe data statis dengan [Assertion](typeAssertions.go)
 28. Secara default pengisian variabel dsb menggunakan metode pass by value, untuk menggunakan pass by reference kita gunakan [pointer](pointer.go) untuk memodifikasi memori yang sama
+29. operator [asterisk](pointer.go). * intinya mengubah semua yang pernah menunjuk memori yang sama ke  penunjuk ke memori baru (pindah memori)
