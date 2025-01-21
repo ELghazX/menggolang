@@ -27,5 +27,5 @@ agar parameter tidak terlalu panjang, bisa dialiaskan seperti [ini](functionAsPa
 22. eksekusi fungsi setelah fungsi dengan [defer](defer.go) akan selalu dieksekusi bagaimanapun setelah func parent nya selesai dieksekusi error atau tidak, misal dihentikan dengna [panic()](panic.go), makanya bisa dimanfaatkan untuk menampung fungsi [recover](recover.go)
 23. Representasi dari data disajikan di [struct](struct.go)
 24. [Interface](interface.go) berisi sebuah kontrak untuk struct yang mau ngimplementasikannya
-25. Puncak tipe data itu [any](aniani.go)
+25. Puncak tipe data itu [any](aniani.go) atau interface{}
 26. [nil](nil.go) itu null, value yang hanya bisa di tipe data interface ,function, map, slice, pointer, dan channel
