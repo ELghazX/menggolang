@@ -34,3 +34,4 @@ agar parameter tidak terlalu panjang, bisa dialiaskan seperti [ini](functionAsPa
 29. operator [asterisk](pointer.go). * intinya mengubah semua yang pernah menunjuk memori yang sama ke  penunjuk ke memori baru (pindah memori)
 buat pointer bisa pakai method [new](new.go)
 30. pointer di [function](pointerFunction.go) karena default nya pass by value kita pakai pointer untuk mengubah nilai memori aslinya. untuk [method](pointerMethod.go) sangat direkomendasikan pakai pointer
+31. [package](helper/helper.go) digunakan untuk mengorganisir file program, dalam membuatkan function harus diawali dengan [huruf besar](helper/helper.go). untuk menggunakan function di package lain bisa pakai keyword [import](import.go)
