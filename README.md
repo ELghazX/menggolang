@@ -26,3 +26,4 @@ agar parameter tidak terlalu panjang, bisa dialiaskan seperti [ini](functionAsPa
 21. [closure](closure.go), fitur di golang buat variabel berintraksi dengan variabel yang bukan scope nya
 22. eksekusi fungsi setelah fungsi dengan [defer](defer.go) akan selalu dieksekusi bagaimanapun setelah func parent nya selesai dieksekusi error atau tidak, misal dihentikan dengna [panic()](panic.go), makanya bisa dimanfaatkan untuk menampung fungsi [recover](recover.go)
 23. Representasi dari data disajikan di [struct](struct.go)
+24. [Interface](interface.go) berisi sebuah kontrak untuk struct yang mau ngimplementasikannya
