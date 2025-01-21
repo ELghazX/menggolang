@@ -36,4 +36,5 @@ buat pointer bisa pakai method [new](new.go)
 30. pointer di [function](pointerFunction.go) karena default nya pass by value kita pakai pointer untuk mengubah nilai memori aslinya. untuk [method](pointerMethod.go) sangat direkomendasikan pakai pointer
 31. [package](helper/helper.go) digunakan untuk mengorganisir file program, dalam membuatkan function harus diawali dengan [huruf besar](helper/helper.go). untuk menggunakan function di package lain bisa pakai keyword [import](import.go)
 32. [Access Modifier](helper/helper.go)di golang ga pakai keyword public private protected dsb. untuk menentukan access modifier nya ialah dari nama funct/variabel yang digunakan.
-jika diawali dengan huruf besar maka func/var itu bisa diakses dari package lain
+jika diawali dengan huruf besar maka func/var itu bisa diakses dari [package lain](import.go)
+33. ada namanya [init function](database/mysql.go) yang akan pertama dieksekusi ketika package nya [import](init.go). karena di golang var yang dibuat atau dalam hal ini import ini harus digunakan, jika kita tidak ingin mengakses function apa apa dari yang diimport maka golang akan protes. misal kita ada function [init](internal/internal.go). dan kita akses di package lain. agar tidak hilang / golang protes maka kita tambahkan blank identifier (_)  di awal [nama package yang import](init.go)
